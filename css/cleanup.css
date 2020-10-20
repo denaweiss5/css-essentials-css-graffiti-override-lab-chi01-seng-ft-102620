@@ -2,15 +2,15 @@
   display: none;
 }
 
-#wall .tag-1 + #tag-2 {
+div#wall #tag-2 {
   display: none;
 }
 
-#wall #tag-3 {
+div#wall #tag-3 .slick_wicked {
   display: none;
 }
 
-#wall #tag-4 {
+#wall .parent #tag-4 {
   display: none;
 }
 
